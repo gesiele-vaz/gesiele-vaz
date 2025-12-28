@@ -1,6 +1,7 @@
 # Olá, sou a Gesiele Vaz! 👋
 
-**Analista de Dados | MBA em Gestão de BI** Especialista em transformar dados em decisões estratégicas através de Python, SQL e Power BI.
+**Analista de Dados | MBA em Gestão de BI** |
+Especialista em transformar dados em decisões estratégicas através de Python, SQL e Power BI.
 
 ---
 
